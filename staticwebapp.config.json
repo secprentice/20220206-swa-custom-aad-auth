@@ -17,11 +17,6 @@
                     "openIdIssuer": "https://login.microsoftonline.com/<YOUR_AAD_TENANT_ID>",
                     "clientIdSettingName": "AZURE_CLIENT_ID",
                     "clientSecretSettingName": "AZURE_CLIENT_SECRET"
-                },
-                "login": {
-                    "loginParameters": [
-                        "resource=https://graph.microsoft.com"
-                    ]
                 }
             }
         }
