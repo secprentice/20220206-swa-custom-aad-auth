@@ -1,10 +1,6 @@
 {
     "routes": [
         {
-            "route": "/admin/*",
-            "allowedRoles": [ "admin" ]
-        },
-        {
             "route": "/authenticated/*",
             "allowedRoles": [ "authenticated" ]
         }
